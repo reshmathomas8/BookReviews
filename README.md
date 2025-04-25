@@ -1,1 +1,1 @@
-# coding-project-template
+Node.js Express application for an online retailer selling books
